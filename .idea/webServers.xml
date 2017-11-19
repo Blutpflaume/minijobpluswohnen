@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b53ff5c4-72e3-4e6d-9c49-15fc36710b86" name="1und1">
-        <fileTransfer host="https://www.minijobpluswohnen.de" port="22" accessType="SFTP">
+      <webServer id="b53ff5c4-72e3-4e6d-9c49-15fc36710b86" name="1und1" url="http://localhost:63342/minijobpluswohnen/src">
+        <fileTransfer host="home699166410.1and1-data.host" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
